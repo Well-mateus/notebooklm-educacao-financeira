@@ -62,11 +62,12 @@ O arquivo `miniguia-educacao-financeira.md` contém:
 
 
 
-\*\*Autor:\*\* \[Wellington Lopes Mateus]  
+Wellington Lopes Mateus
 
-\*\*Data:\*\* Fevereiro 2026  
+Fevereiro 2026  
 
-\*\*Curso:\*\* \[DIO - Bradesco - GenAI & Dados]
+Curso: DIO - Bradesco - GenAI & Dados
+
 
 
 
