@@ -54,9 +54,7 @@ O arquivo `miniguia-educacao-financeira.md` contém:
 
 
 
-\## 🔗 Link do NotebookLM (opcional)
-
-Se você tiver link público: \[Link do caderno]
+\## 🔗 Link do NotebookLM ([opcional](https://notebooklm.google.com/notebook/76a09349-feb7-4a1e-941d-662fe6f734ec))
 
 
 
@@ -64,11 +62,12 @@ Se você tiver link público: \[Link do caderno]
 
 
 
-\*\*Autor:\*\* \[Seu nome]  
+\*\*Autor:\*\* \[SWellington Lopes Mateus]  
 
 \*\*Data:\*\* Fevereiro 2026  
 
-\*\*Curso:\*\* \[Nome do módulo/plataforma]
+\*\*Curso:\*\* \[DIO - Bradesco - GenAI & Dados]
+
 
 
 
